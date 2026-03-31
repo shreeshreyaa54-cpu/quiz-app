@@ -161,3 +161,4 @@ POST /quiz/answer
 - No external state management (no Redux) — pure React hooks
 - In-memory session store — can be swapped for Redis/SQLite for persistence
 - CORS enabled for local development
+"# quiz-app" 
