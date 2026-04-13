@@ -1,5 +1,5 @@
 import React, { useState, useEffect, useRef, useCallback } from 'react';
-import { api } from '../api';
+import { api } from '../frontend/api';
 import './Quiz.css';
 
 const TIME_LIMITS = { easy: 30, medium: 20, hard: 15 };

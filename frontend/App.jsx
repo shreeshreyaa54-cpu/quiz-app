@@ -1,8 +1,8 @@
 import React, { useState } from 'react';
-import Landing from './components/Landing';
-import Setup from './components/Setup';
-import Quiz from './components/Quiz';
-import Results from './components/Results';
+import Landing from '../components/Landing';
+import Setup from '../components/Setup';
+import Quiz from '../components/Quiz';
+import Results from '../components/Results';
 
 const SCREENS = { LANDING: 'landing', SETUP: 'setup', QUIZ: 'quiz', RESULTS: 'results' };
 
