@@ -2,7 +2,7 @@
 // No backend server needed. Runs entirely in the browser.
 // Compatible with Vercel, Netlify, and any static hosting.
 
-import { QUIZ_CATEGORIES } from '../quizData.js';
+import { QUIZ_CATEGORIES } from './quizData.js';
 
 // ── In-memory session store ──────────────────────────────────────────────────
 const sessions = {};
